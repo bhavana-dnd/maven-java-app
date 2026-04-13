@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: java-app
-          image: ukfifi/java-app:latest
+          image: bhavana3012/java-app:latest
 
 ---
 apiVersion: v1
